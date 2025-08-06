@@ -1,0 +1,32 @@
+# Expo / React Native
+node_modules/
+.expo/
+.expo-shared/
+*.log
+*.jks
+
+# macOS
+.DS_Store
+
+# Android/iOS build
+android/
+ios/
+*.apk
+*.keystore
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Logs
+*.log
+
+
+.expo/
+.expo-shared/

@@ -1,0 +1,32 @@
+{
+  "name": "dianbao-app-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^7.4.2",
+    "@capacitor/core": "^7.4.2",
+    "next": "^13.5.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-easy-crop": "^5.5.0"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "24.1.0",
+    "@types/react": "19.1.9",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^4.1.11",
+    "typescript": "5.8.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
